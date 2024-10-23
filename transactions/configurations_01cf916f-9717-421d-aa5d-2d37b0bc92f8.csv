@@ -1,0 +1,2 @@
+unique_id,data_source,data_format,missing_data_handling,normalization,algorithm,task,target_variable
+01cf916f-9717-421d-aa5d-2d37b0bc92f8,File Upload,CSV,Drop,Min-Max,ARIMA,Prediction,Temperature

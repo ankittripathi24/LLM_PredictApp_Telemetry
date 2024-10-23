@@ -1,0 +1,1 @@
+{"AZURE_OPENAI_API_KEY": "93b312962a264b469d28bb4025344dfd", "AZURE_OPENAI_ENDPOINT": "https://openai-aiattack-msa-000898-australiaeast-genaiih-00.openai.azure.com/", "OPENAI_API_VERSION": "2024-02-15-preview", "AZURE_DEPLOYMENT_NAME": "gpt-4", "USE_AZURE_OPENAI": "YES", "USE_LOCAL_MODEL": "NO"}

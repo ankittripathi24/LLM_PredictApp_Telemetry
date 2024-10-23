@@ -1,0 +1,3 @@
+py .\time_series_prediction.py transactions\configurations_0960d41e-7f9c-4c4d-96a6-e88783f9b352.csv  transactions\tsdata_0960d41e-7f9c-4c4d-96a6-e88783f9b352.csv
+
+deepeval set-azure-openai --openai-endpoint=""  --openai-api-key="" --openai-api-version="" --deployment-name="gpt-4"

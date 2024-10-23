@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#b3e5fc"  # Blue shade for primary color
+backgroundColor = "#e0f7fa"  # Light blue shade for background color
+secondaryBackgroundColor = "#b3e5fc"  # Another shade of blue for secondary background
+textColor = "#000000"
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
